@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://patrickzdev.github.io/sitemap.xml
